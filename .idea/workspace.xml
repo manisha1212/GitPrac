@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f9dac30-d702-4a05-acfa-9004cdfc4415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AllProgram/InheritancePrac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllProgram/Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AllProgram/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllProgram/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AllProgram/InheritancePrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllProgram/InheritancePrac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AllProgram/ParentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllProgram/ParentClass.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,6 +42,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="InheritancePrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllProgram.InheritancePrac" />
+      <module name="Git prac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AllProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InheritancePrac" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571377029729</updated>
-      <workItem from="1571377033730" duration="761000" />
+      <workItem from="1571377033730" duration="1641000" />
     </task>
     <servers />
   </component>
@@ -61,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
